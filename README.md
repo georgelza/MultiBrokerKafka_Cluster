@@ -10,6 +10,7 @@ Simple, this spins up 3 brokers and 3 controllers.
 
 Where possible I've removed dumplication of specifying settings by using a single environment blog/variable (see `x-common-env`) defined at the top thats pulled into each brokers `environment` section using (`<<: *common-env`).
 
+Blogged on [Medium](https://medium.com/@georgelza/multi-broker-controller-kafka-cluster-1d51d6b6376f)
 
 ## Modules and Versions
 
