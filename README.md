@@ -18,7 +18,7 @@ Where possible I've removed dumplication of specifying settings by using a singl
   
 ## To run the project.
 
-- `make run` - 
+- `make run` - Execute/Start the cluster.
 - `make down` - To tear everything down
 - `make logs`
 - `make logsf` - continues stream
