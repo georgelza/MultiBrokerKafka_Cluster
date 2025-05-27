@@ -39,7 +39,7 @@ See various configuration settings in .env:
 
 ## Projects / Components
 
-- [Confluent in](https://docs.confluent.io)
+- [Confluent](https://docs.confluent.io)
 
 - [Apache Flink](https://flink.apache.org)
 
